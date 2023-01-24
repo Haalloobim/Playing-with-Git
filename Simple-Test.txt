@@ -11,7 +11,7 @@ this folder/repo now contain a cpp file inside it..
 to do list after watch all the series:
 - bikin directory github test koneksi local. [DONE]
 - bikin directory local add file test koneksi nyambung apa
-  nggak, ada apa nggak di dalem nya 
+  nggak, ada apa nggak di dalem nya. [DONE]
 - bikin direktori sebagai remote
 - bikin atau nambahi file di remote github cek apa nambah
   di local
