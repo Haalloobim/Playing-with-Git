@@ -6,3 +6,15 @@ this folder/repo now contain a cpp file inside it..
 ~~~~~~~~~~~~~~~~~~~~~{titip}~~~~~~~~~~~~~~~~~~~~~~~
 //* git log --all --decorate --oneline --graph *//
 ~~~~~~~~~~~~~~~~~~~~~{titip}~~~~~~~~~~~~~~~~~~~~~~~
+
+
+to do list after watch all the series:
+- bikin directory github test koneksi dan bikin direktori
+  sebagai remote 
+- bikin directory local add file test koneksi nyambung apa
+  nggak, ada apa nggak di dalem nya 
+- bikin atau nambahi file di remote github cek apa nambah
+  di local
+- buat remote repo college di D buat siap siap strukdat
+  sekalian push modified ADT Data Structure
+- LESGOOO WEB LEARNINGGGG!!!!
