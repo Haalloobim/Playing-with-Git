@@ -1,3 +1,8 @@
 this folder contain a file not nothing anymore
 
-this folder/repo now contain a cpp file inside it....
+this folder/repo now contain a cpp file inside it..
+
+
+~~~~~~~~~~~~~~~~~~~~~{titip}~~~~~~~~~~~~~~~~~~~~~~~
+//* git log --all --decorate --oneline --graph *//
+~~~~~~~~~~~~~~~~~~~~~{titip}~~~~~~~~~~~~~~~~~~~~~~~
