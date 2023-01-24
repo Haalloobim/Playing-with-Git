@@ -17,3 +17,13 @@ body{
     background-color: #f7f0f7;
     /* color: aliceblue; */
 }
+.container {
+    padding: 20px 60px;
+    background-color: rgb(71, 124, 204);
+    border-radius: 20px;
+    border: black 2px solid;
+}
+
+p {
+    text-align: center;
+}
