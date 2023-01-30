@@ -1,3 +1,0 @@
-Can this directory enter my local git...?
-
-This directory enter my local git, isnt it?
